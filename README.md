@@ -1,4 +1,8 @@
-# Portfolio
+![alt text](https://cdn-images-1.medium.com/max/1600/1*bO0hO8Y9t2aHx4l4126BYg.jpeg)
+
+<centre>Makers Portfolio</centre>
+
+## A. Carl Forest-Jones
 
 My Goals 
 
@@ -14,6 +18,7 @@ My Goals
  I manage my own wellbeing
  I can learn anything by myself
  
+
 3. I help my teams succeed
  I use an agile product development process
  I write code that is easy to change
