@@ -6,13 +6,13 @@
 
 My Goals 
 
-1. I can make anything
- I can TDD anything
- I can program fluently
- I can debug anything
- I can model anything
- I can refactor anything
- I have a methodical approach to solving problems
+1. I can make anything<br>
+ I can TDD anything<br>
+ I can program fluently<br>
+ I can debug anything<br>
+ I can model anything<br>
+ I can refactor anything<br>
+ I have a methodical approach to solving problems<br>
  
 2. I'm equipped for long term growth
  I manage my own wellbeing
