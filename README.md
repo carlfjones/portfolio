@@ -11,10 +11,13 @@ My Goals
 1. *I can make anything*<br>
 
  I can TDD anything<br>
- [Airport Challenge](https://github.com/carlfjones/airport_challenge "Airport Challenge")<br><br>
+ [Airport Challenge](https://github.com/carlfjones/airport_challenge)<br><br>
  I can program fluently<br>
+ [MakersBnB](https://github.com/carlfjones/MakersBnB)<br><br>
  I can debug anything<br>
+ Debugging Notes<br><br>
  I can model anything<br>
+ [Boomkmark Manager](https://github.com/carlfjones/bookmark_manager2)<br><br>
  I can refactor anything<br>
  I have a methodical approach to solving problems<br>
  
